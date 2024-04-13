@@ -1,5 +1,6 @@
 #Print table of a number
 
+
 print ("Enter a number:")
 num = int ( input() )
 res = 0

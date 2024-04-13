@@ -15,3 +15,5 @@ if count > 2:
     print("Number is not prime.")
 else:
     print ("This is a prime number.")
+
+    
