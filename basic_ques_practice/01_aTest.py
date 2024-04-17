@@ -1,12 +1,9 @@
-#this is to test various functions
+a = (1,2,3, "rohit")
+b = 'Rohit Yadav'
+c = "Yadav"
+z = 40
+d = [1,2,3]
 
-import math
-import decimal
+e = (chr(z))
 
-from decimal import Decimal
-
-i = Decimal ("10.984")
-
-print( type(round (i, ndigits = 2)))
-
-print (math.cos(0))
+print (e)
