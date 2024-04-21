@@ -4,6 +4,11 @@ c = "Yadav"
 z = 40
 d = [1,2,3]
 
-e = (chr(z))
+p = True + False
 
-print (e)
+e =   (reversed(b) )
+
+
+z = ('3.14 is Pi')
+
+print(p)
